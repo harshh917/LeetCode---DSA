@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/harshh917/LeetCode---DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/harshh917/LeetCode---DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/harshh917/LeetCode---DSA/tree/master/0349-intersection-of-two-arrays) |
+| [3903-smallest-stable-index-i](https://github.com/harshh917/LeetCode---DSA/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshh917/LeetCode---DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshh917/LeetCode---DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/harshh917/LeetCode---DSA/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
