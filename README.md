@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/harshh917/LeetCode---DSA/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/harshh917/LeetCode---DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/harshh917/LeetCode---DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
@@ -69,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/harshh917/LeetCode---DSA/tree/master/3903-smallest-stable-index-i) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/harshh917/LeetCode---DSA/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/harshh917/LeetCode---DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/harshh917/LeetCode---DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
