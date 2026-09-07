@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/harshh917/LeetCode---DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/harshh917/LeetCode---DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/harshh917/LeetCode---DSA/tree/master/0485-max-consecutive-ones) |
+| [1004-max-consecutive-ones-iii](https://github.com/harshh917/LeetCode---DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/harshh917/LeetCode---DSA/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/harshh917/LeetCode---DSA/tree/master/0349-intersection-of-two-arrays) |
+| [1004-max-consecutive-ones-iii](https://github.com/harshh917/LeetCode---DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Tree
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/harshh917/LeetCode---DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/harshh917/LeetCode---DSA/tree/master/3903-smallest-stable-index-i) |
 ## Linked List
 |  |
@@ -82,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/harshh917/LeetCode---DSA/tree/master/0146-lru-cache) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/harshh917/LeetCode---DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
